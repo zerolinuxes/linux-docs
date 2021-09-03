@@ -1,5 +1,11 @@
 # NTP SERVER
 
+Purpose of ntp service
+
+    The Network Time Protocol (NTP) is a networking protocol for clock synchronization
+    between computer systems over packet-switched, variable-latency data networks.
+
+
 ntp server installtion package
 
     apt install ntp
