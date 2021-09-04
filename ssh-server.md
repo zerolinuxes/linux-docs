@@ -49,9 +49,9 @@ to cat the ssh service
 
           systemctl cat sshd
           
-to check the service running or not
+to check the active ssh service
 
-          systemctl is-running sshd
+          systemctl is-active sshd
           
           
           
