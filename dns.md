@@ -8,4 +8,23 @@ port number for dns
 
     port number is 53
     
+to install dns server package 
+
+    apt install bind9
+    
+to install the dns client package
+
+    apt install dnsutils
+    
+host command usage
+host command is used to get ip address and all information
+
+   
+   host -a domainname
+    
+nslookup usage
+nslookup is used to get information about domain name server
+    
+    nslookup domainname
+    
  
