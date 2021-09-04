@@ -41,6 +41,19 @@ to see the ssh package disabled or not
 
           systemctl is-disabled sshd
           
+to status the ssh service
+
+          systemctl status sshd
+          
+to cat the ssh service
+
+          systemctl cat sshd
+          
+to check the service running or not
+
+          systemctl is-running sshd
+          
+          
           
 
           
