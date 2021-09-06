@@ -6,4 +6,7 @@ sudo apt update
 # to upgrade the installed packages
 sudo apt upgrade -y
 
+# to restart the device
+sudo reboot
+
 ```
