@@ -4,7 +4,7 @@
     
 port number for mysql
 
-    port number is 5306
+    port number is 3306
     
 to install mysql server package 
 
