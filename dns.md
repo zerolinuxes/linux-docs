@@ -27,4 +27,14 @@ nslookup is used to get information about domain name server
     
     nslookup domainname
     
+to start a dns service 
+
+        systemctl start bind9
+        
+to stop a dns service
+
+        systemctl stop bind9
+
+        
+    
  
