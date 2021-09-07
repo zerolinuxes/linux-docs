@@ -11,6 +11,8 @@ Resolution:
     Network connection or internet coneection issue. Please make sure everything fine 
     
     
+    
+    
     sudo privileages error
     
     zerolinuxes@xps-13-9305:~$ apt update
