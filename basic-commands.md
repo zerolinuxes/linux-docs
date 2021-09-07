@@ -39,10 +39,10 @@ lsb_release -a
     usermod -G sudo aro
     
 # To see the group details
-    cat/etc/groups
+    cat /etc/groups
     
 # To see the user details 
-    cat/etc/passwd
+    cat /etc/passwd
     
 # To create a folder
     mkdir aro
