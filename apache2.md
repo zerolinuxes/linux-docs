@@ -22,5 +22,9 @@ to enable a apache2 service
 
     systemctl enable apache2
     
+apache2 configuration file location
+
+        /etc/apache2/apache2. conf
+    
 
     
