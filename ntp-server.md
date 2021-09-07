@@ -45,3 +45,7 @@ check the active ntp service
 check the enable status ntpd service
 
     systemctl is-enabled ntpd
+    
+ ntp configuration file location
+ 
+    udo nano /etc/ntp. conf.
