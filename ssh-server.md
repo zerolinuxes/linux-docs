@@ -53,6 +53,10 @@ to check the active ssh service
 
           systemctl is-active sshd
           
+ssh configuration file location
+
+          /etc/ssh directory. 
+          
           
           
 
