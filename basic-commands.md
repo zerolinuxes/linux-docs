@@ -63,6 +63,9 @@ to come out of a directory
 to delete a directory use command
     rm -rf
     
+to give sudo privileage to a user without adding a sudo 
+    visudo
+    
 
     
 
