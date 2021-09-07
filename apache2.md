@@ -2,6 +2,10 @@
 
     it is used for establish a connection between the server and website visitors
     
+ port number for apache2
+ 
+        port number is 80
+    
  to install apache2 server package
  
     apt install apache2
