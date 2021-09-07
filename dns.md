@@ -38,6 +38,10 @@ to stop a dns service
 to check the service running or not
 
         systemctl status bind9
+        
+dns configuration file location
+
+         /etc/bind directory
 
         
     
