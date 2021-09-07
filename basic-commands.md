@@ -66,6 +66,9 @@ to delete a directory use command
 to give sudo privileage to a user without adding a sudo 
     visudo
     
+to change a hostname 
+    hostnamectl set-oldhostname newhostname-server
+    
 
     
 
