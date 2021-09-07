@@ -33,5 +33,9 @@ to enable the postgresql service
 to check the service enabled or not
 
         systemctl is-enabled postgresql
+        
+postgresql configuration file location
+
+        /etc/postgresql/<version>/main directory
     
  
