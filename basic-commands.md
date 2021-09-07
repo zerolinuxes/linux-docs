@@ -69,6 +69,12 @@ to give sudo privileage to a user without adding a sudo
 to change a hostname 
     hostnamectl set-oldhostname newhostname-server
     
+to check whether the packages installed or not
+    dpkg --get-selections | grep apache2
+    
+ to check a ip address
+    ifconfig -a
+    
 
     
 
