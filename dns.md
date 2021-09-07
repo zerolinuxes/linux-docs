@@ -34,6 +34,10 @@ to start a dns service
 to stop a dns service
 
         systemctl stop bind9
+        
+to check the service running or not
+
+        systemctl status bind9
 
         
     
