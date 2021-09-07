@@ -34,6 +34,10 @@ to check the service enabled or not
 
     systemctl is-enabled mysql
     
+mysql configuration file location
+
+        /etc/mysql. ... 
+    
     
     
 
