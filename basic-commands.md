@@ -77,6 +77,16 @@ lsb_release -a
 # To check a ip address
     ifconfig -a
     
+# To create a file with diffrent commands
+        touch jino.txt
+        echo > jino1.txt
+        echo "hi arowin" > arowin.txt
+        echo "hi jino" | tee jino2.txt
+        vim arowin.txt
+        
+# To read the file
+        cat jino.txt
+    
 
     
 
