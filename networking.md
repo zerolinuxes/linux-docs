@@ -28,7 +28,7 @@ host:
     
 router:
 
-    router is  a device that connects two or more packet switched network or sub networks
+    router is  a device that connects two or more packet switched networks or sub networks.  it manages traffic between networks by sending the data packets to the intended ip address
 
     
     
