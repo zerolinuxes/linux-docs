@@ -33,6 +33,16 @@ router:
 traceroute:
 
     traceroute provides a map of how data from the internet travel to its destination.
+    
+intrusion detection system:
+
+    it analyze packet for signature that match known as cyber attack
+    
+intrusion prevention system:
+
+    it analyze the packet for signature if it mqatches with the signature it blocks the cyberattack.
+
+    
 
     
     
