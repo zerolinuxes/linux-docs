@@ -86,6 +86,13 @@ lsb_release -a
         
 # To read the file
         cat jino.txt
+        
+vim editor shortcuts
+        yy - copy
+        p - paste
+        :wq! - save and quit
+        :q! - only quit
+        u - undo
     
 
     
