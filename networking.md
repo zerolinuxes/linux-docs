@@ -1,10 +1,10 @@
 networking:
 
-    networking is a exchange of information among computers or networkig devices
+    networking is a exchange of information among computers or networking devices
     
 ip address:
 
-    ip address is a unique address used to find the devices on the internet so that computers can communicate each other
+    ip address is a unique address used to find the devices on the internet so that computers can communicate each other or all around the world
     
  private ip:
  
@@ -12,7 +12,7 @@ ip address:
     
 public ip:
 
-    public ip is routed to the internet and is assigned to the network router provide by internet service provider. scope is global
+    public ip is routed to the internet and is assigned to the network router provided by internet service provider. scope is global
     
 port:
 
@@ -20,15 +20,17 @@ port:
     
 ping:
 
-    ping is used to check the network is availabke and the host is reachable
+    ping command is used to check whether the network is availabke and host is reachable
     
 host:
 
-    host is used to find the ip address and other information
+    host command is used to find the ip address and other information
     
 router:
 
     router is  a device that connects two or more packet switched networks or sub networks.  it manages traffic between networks by sending the data packets to the intended ip address
+    
+traceroute:
 
     
     
