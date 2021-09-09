@@ -45,6 +45,10 @@ intrusion prevention system:
 firewall:
 
     firewall is network security device that monitors the incoming and outgoing data packets and decides whether to allow or block the specific packets based on the set of security rules
+    
+packet:
+
+    packet is nothing but datas or binaries
 
     
 
