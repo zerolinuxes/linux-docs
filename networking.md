@@ -40,7 +40,7 @@ intrusion detection system:
     
 intrusion prevention system:
 
-    it analyze the packet for signature if it mqatches with the signature it blocks the cyberattack.
+    it analyze the packet for signature if it mqatches with the signature it prevent the cyberattack.
     
 firewall:
 
