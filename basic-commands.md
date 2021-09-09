@@ -93,6 +93,7 @@ vim editor shortcuts
         :wq! - save and quit
         :q! - only quit
         u - undo
+        dd - delete the entire line
     
 
     
