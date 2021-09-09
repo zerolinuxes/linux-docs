@@ -94,6 +94,8 @@ vim editor shortcuts
         :q! - only quit
         u - undo
         dd - delete the entire line
+        r - replace the cursor word
+        
     
 
     
