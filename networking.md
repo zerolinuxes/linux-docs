@@ -32,5 +32,7 @@ router:
     
 traceroute:
 
+    traceroute provides a map of how data from the internet travel to its destination.
+
     
     
