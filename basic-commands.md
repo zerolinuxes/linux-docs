@@ -97,7 +97,8 @@ vim editor shortcuts
         r - replace the cursor word
         
     
-
+        # To find the flavors of linux in redhat
+        cat /etc/redhat-release.
     
 
 
