@@ -99,8 +99,15 @@ vim editor shortcuts
     
         # To find the flavors of linux in redhat
         cat /etc/redhat-release.
+   
+  
     
-
+   # to find a running process in ubuntu
+                ps -ef
+                
+                
+ # to kill a process, use command
+                kill -9 -processid
 
 
 ```
